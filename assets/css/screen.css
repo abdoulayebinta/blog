@@ -50,8 +50,8 @@ pre {
 
 .site-content {
     min-height: 60vh;
-    padding-top: 1.5rem;
-    margin-top: 57px;
+    padding-top: 1.2rem;
+    margin-top: 60px;
     transition: all 0.4s;
 }
 
@@ -300,8 +300,8 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
-    margin-right: 5px;
+    max-height: 55px;
+    margin-right: 10px;
 }
 
 .mainheading h1.sitetitle {
@@ -774,7 +774,7 @@ iframe {
         padding: 0;
         height: 350px;
         border-radius: 0;
-        background-image: url(../images/jumbotron1.jpg);
+        background-image: url(../images/jumbotron.jpg);
         background-size: cover;
     }
 
@@ -792,7 +792,7 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/jumbotron1.jpg);
+    background-image: url(../images/jumbotron.jpg);
     background-size: cover;
 }
 

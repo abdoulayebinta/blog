@@ -2,10 +2,9 @@
 layout: post
 title:  "Debugging and Error Handling in Python"
 author: abdoulaye
-categories: [ Jekyll, tutorial ]
-image: assets/images/003.jpg
-featured: true
-hidden: true
+categories: [ development ]
+image: assets/images/python-exception.jpg
+hidden: false
 ---
 - Explain common errors and how they occur in Python
 - Use pdb to set breakpoint and step through code

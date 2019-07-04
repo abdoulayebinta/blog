@@ -2,12 +2,12 @@
 layout: post
 title:  "Making HTTP Request with Python!"
 author: abdoulaye
-categories: [Development , data science]
+categories: [development , data science]
 tags: [red, yellow]
-image: assets/images/001.png
+image: assets/images/python-RestAPI.png
 description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 ---
 How can we request data from an API.

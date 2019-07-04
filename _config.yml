@@ -1,14 +1,12 @@
 # Site
 name: "Abdoulaye's Blog"
 title: "Abdoulaye's Blog"
-description: "Abdoulaye Binta Bah, software developer, data scientist, 
-  business analyst, product manager and entrepreneur making the world a 
-  better place using cutting edge technologies."
-logo: 'assets/images/logo3.png'
+description: "Welcome visitor! Thanks so much for stopping by.
+              There are something you propably want to check out. "
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: /blog
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -20,9 +18,11 @@ authors:
     display_name: Abdoulaye Binta Bah
     gravatar: ec85e2770d349f7100ac634f9100a2fa
     email: bahabdoulayebinta@gmail.com
-    web: https://www.wowthemes.net
+    web: https://abdoulayebinta.github.io
     twitter: https://twitter.com/abdbintbah
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "Abdoulaye Binta Bah, software developer, data scientist, 
+  business analyst, product manager and entrepreneur making the world a 
+  better place using cutting edge technologies."
 
 # Plugins
 plugins:
